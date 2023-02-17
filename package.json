@@ -1,5 +1,5 @@
 {
-  "name": "bunyangelf",
+  "name": "@medinamarquezp/bunyangelf",
   "version": "1.1.1",
   "description": "Bunyan logs to GELF throught UDP socket (forked from valeryq/bunyan-gelf)",
   "main": "index.js",
