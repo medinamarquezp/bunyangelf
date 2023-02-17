@@ -1,4 +1,4 @@
-declare module "bunyan-gelf" {
+declare module "@medinamarquezp/bunyangelf" {
   import { Writable } from "stream";
 
   export default class BunyanToGelfStream extends Writable {
